@@ -1,0 +1,98 @@
+﻿Masina nimi: DESKTOP-6R02F76
+PowerShelli versioon: 5.1.26100.2161
+Windowsi versioon: Microsoft Windows 11 Education
+
+IPAddress                                  IPSubnet            DefaultIPGateway DHCPEnabled MACAddress       
+---------                                  --------            ---------------- ----------- ----------       
+{192.168.1.3, fe80::533d:2e8f:b1bd:a83f}   {255.255.255.0, 64} {192.168.1.1}           True 2C:7B:A0:E2:55:EF
+{192.168.56.1, fe80::581a:a99:8ddf:971a}   {255.255.255.0, 64}                        False 0A:00:27:00:00:16
+{192.168.28.1, fe80::1495:2347:8d4e:3438}  {255.255.255.0, 64}                        False 0A:00:27:00:00:13
+{192.168.154.1, fe80::6ec7:749b:bee7:e81f} {255.255.255.0, 64}                        False 0A:00:27:00:00:08
+
+
+
+
+Name                      : Intel(R) Core(TM) Ultra 5 125U
+Manufacturer              : GenuineIntel
+MaxClockSpeed             : 1300
+NumberOfCores             : 12
+NumberOfLogicalProcessors : 14
+Architecture              : 9
+
+
+
+
+Ram: 15.47 GB
+
+
+Name                        : Intel(R) Graphics
+DriverVersion               : 32.0.101.5763
+DriverDate                  : 20240708000000.000000-000
+CurrentHorizontalResolution : 1920
+
+
+
+
+DeviceID MediaType         Size    FreeSpace
+-------- ---------         ----    ---------
+C:              12 510325157888 297295319040
+
+
+C:-kettal mahtuvus: 475.28 GB, vaba ruum: 276.88 GB
+
+Description                                                  Manufacturer                                         DriverVersion  
+-----------                                                  ------------                                         -------------  
+Intel(R) AI Boost                                            Intel Corporation                                    32.0.100.2267  
+Intel(R) Ethernet Connection (18) I219-V                     Intel                                                12.19.2.61     
+Intel(R) GNA Scoring Accelerator module                      Intel Corporation                                    3.5.0.1578     
+Intel(R) Graphics                                            Intel Corporation                                    32.0.101.5763  
+Intel(R) Innovation Platform Framework Processor Participant Intel                                                2.2.10001.3    
+Intel(R) Management Engine Interface #1                      Intel                                                2345.5.3.0     
+Intel(R) Platform Monitoring Technology (PMT) Driver         Intel(R) Platform Monitoring Technology (PMT) Device 3.1.2.2        
+Intel(R) Serial IO I2C Host Controller - 7E78                Intel Corporation                                    30.100.2405.44 
+Intel(R) Serial IO SPI Host Controller - 7E27                Intel Corporation                                    30.100.2405.44 
+Intel(R) Serial IO UART Host Controller - 7E25               Intel Corporation                                    30.100.2405.44 
+Intel(R) Shared SRAM - 7E7F                                  INTEL                                                10.1.47.12     
+Intel(R) SMBus - 7E22                                        INTEL                                                10.1.47.12     
+Intel(R) SPI - 7E23                                          INTEL                                                10.1.47.12     
+Intel(R) Wi-Fi 6E AX211 160MHz                               Intel Corporation                                    23.60.1.2      
+Intel® Smart Sound Technology BUS                            Intel(R) Corporation                                 20.40.11112.7  
+PCI Express Root Port                                        (Standard system devices)                            10.0.26100.2161
+PCI Express Root Port                                        (Standard system devices)                            10.0.26100.2161
+PCI Express Root Port                                        (Standard system devices)                            10.0.26100.2161
+PCI standard host CPU bridge                                 (Standard system devices)                            10.0.26100.1150
+PCI standard ISA bridge                                      (Standard system devices)                            10.0.26100.1150
+Standard NVM Express Controller                              Standard NVM Express Controller                      10.0.26100.2161
+USB xHCI Compliant Host Controller                           Generic USB xHCI Host Controller                     10.0.26100.2161
+USB xHCI Compliant Host Controller                           Generic USB xHCI Host Controller                     10.0.26100.2161
+USB4(TM) Host Router (Microsoft)                             Generic USB4 Host Router                             10.0.26100.2161
+USB4(TM) Host Router (Microsoft)                             Generic USB4 Host Router                             10.0.26100.2161
+
+
+
+Name               Description                                                                                     LocalAccount Disabled
+----               -----------                                                                                     ------------ --------
+Administrator      Built-in account for administering the computer/domain                                                  True     True
+DefaultAccount     A user account managed by the system.                                                                   True     True
+Guest              Built-in account for guest access to the computer/domain                                                True     True
+WDAGUtilityAccount A user account managed and used by the system for Windows Defender Application Guard scenarios.         True     True
+
+
+Protsesside arv: 239
+Viimased 10 käivitatud protsessi:
+
+Name                   Id StartTime           
+----                   -- ---------           
+Notepad              6844 12/2/2024 2:29:13 PM
+chrome              19936 12/2/2024 2:28:54 PM
+chrome               8120 12/2/2024 2:28:52 PM
+chrome              24004 12/2/2024 2:27:52 PM
+smartscreen         19672 12/2/2024 2:26:12 PM
+chrome               3768 12/2/2024 2:23:54 PM
+RuntimeBroker       14672 12/2/2024 2:21:09 PM
+HPAudioControl_19H1 16488 12/2/2024 2:21:09 PM
+audiodg             21560 12/2/2024 2:21:07 PM
+CptHost             26712 12/2/2024 2:21:05 PM
+
+
+Arvuti kuupäev ja kellaaeg: 12/02/2024 14:29:17
